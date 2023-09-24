@@ -4,8 +4,6 @@
 
 CodeCrafter is a web-based platform that allows you to write, compile, and execute C++ code online. Say goodbye to complex local setups; with CodeCrafter, you can code, test, and see your results instantly, all within your web browser.
 
-![CodeCrafter Screenshot](docs/images/screenshot.png)
-
 ## Key Features
 
 - **Code Editor:** Enjoy a seamless coding experience with syntax highlighting and code auto-completion.
@@ -17,7 +15,7 @@ CodeCrafter is a web-based platform that allows you to write, compile, and execu
 
 ## Getting Started
 
-To run CodeCrafter locally or contribute to the project, follow the setup instructions in the [documentation](link-to-documentation).
+To run CodeCrafter locally or contribute to the project, follow the setup instructions in the [documentation](link-to-documentation.md).
 
 ## Usage
 
