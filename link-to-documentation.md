@@ -30,8 +30,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/d43ash1sh/CodeCrafter
+   cd CodeCrafter
    ```
 
 2. Install project dependencies:
@@ -49,7 +49,7 @@ Your CodeCrafter instance should now be running locally. Access it in your web b
 
 ## Usage
 
-1. Visit the [CodeCrafter website](https://your-website-url-here.com).
+1. Visit the [CodeCrafter website](https://www.google.com).
 2. Write or paste your C++ code into the code editor.
 3. Click "Run" to compile and execute your code.
 4. View the output and any error messages.
@@ -67,8 +67,8 @@ Click the "Fork" button on the top right of the repository to create a copy of t
 Clone your forked repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/d43ash1sh/CodeCrafter.git
+cd CodeCrafter
 ```
 
 ### Create a Branch
@@ -106,10 +106,3 @@ Then, go to the original repository and click the "New Pull Request" button. Des
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Note:** Replace "your-username," "your-repository," and any other placeholders with your actual information. Customize the documentation with specific details about your project, installation instructions, and contribution guidelines.
-
-```
-
-You can copy and paste this Markdown code into your README.md file in your GitHub repository, replacing any placeholder information with your actual project details.
-```
