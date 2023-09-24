@@ -21,7 +21,7 @@ To run CodeCrafter locally or contribute to the project, follow the setup instru
 
 ## Usage
 
-1. Visit [CodeCrafter](https://your-website-url-here.com).
+1. Visit [CodeCrafter](https://g.dev/dev07D4).
 2. Write or paste your C++ code into the code editor.
 3. Click "Run" to compile and execute your code.
 4. View the output and any error messages.
